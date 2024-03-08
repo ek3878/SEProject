@@ -2,7 +2,7 @@ Member's roles:
 Smile: Documenting
 Viana: Testing
 Lunjia: Designing
-Elizabeth: Housekeeping
+Elizabeth: Coding
 
 Tools/frameworks/programming languages we will be working with:
 Java
