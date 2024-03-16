@@ -1,0 +1,60 @@
+Meeting Minutes
+
+Iteration 1:
+Prioritized List of Features to be Implemented:
+  Project Proposal
+  Use Case Diagram
+  Class Diagram
+  Sequence Diagrams
+  Upload Videos to Database
+
+February 8
+  Project Proposal/group setup
+    Elizabeth: Tools/frameworks/programming languages, Process, Key Features and Functionality
+    Viana: General Introduction + Purpose, Process, Key Features and Functionality
+    Smile: General Introduction + Purpose, Process, Key Features
+    Lunjia: Came up with project idea, Tools/frameworks/programming languages, General Introduction + Purpose, Key Features and Functionality, Technological stack, Functional requirements, Application architecture
+
+February 22
+  Use Case Diagram: Everyone designed it together
+    Elizabeth: Drew the diagram
+  Fully Dressed Use Cases
+    Smile & Viana: View Video
+    Lunjia & Elizabeth: Search for Videos
+
+February 29
+  Class Diagram: Everyone designed it together
+    Smile: typed up the class diagram on VisualParadigm
+    Elizabeth: revised the class diagram
+  Sequence Diagrams:
+    Elizabeth & Viana: scenario for commenting on a video
+    Lunjia & Smile: scenario for uploading a video
+  Everyone discussed changes needed to be made to the use case diagram
+  Everyone discussed database problem and decided to limit to short clips of less than 15 seconds
+
+
+
+
+Iteration 2:
+Leftover from Last Iteration:
+  Upload Videos to Database
+
+Prioritized List of Features to be implemented:
+  Create the base architecture for Youtube 
+  Upload Videos to Database
+  Save Video Details
+  Upload Thumbnails
+  Get Video Details 
+
+March 7
+  Discussed and Split Responsibilities:
+    Elizabeth: Create base architecture and Frontend
+    Lunjia:
+    Viana: Backend
+    Smile:
+
+March 14
+  Elizabeth: Created the base architecture for the Youtube clone application (generated the springboot project, created Maven multi module project for frontend and backend, installed AngularJS and created project, added and debugged maven frontend plugin, configured mongoDB in the springboot project), created an Startub Instructions FAQ guide (including instructions on how to use eclipse, download and install all needed technologies, how to use terminal to debug and run builds, and how to startup the Angular frontend UI)
+  Lunjia:
+  Viana:
+  Smile:
