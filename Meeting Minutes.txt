@@ -50,7 +50,7 @@ March 7
   Discussed and Split Responsibilities:
     Elizabeth: Create base architecture and Frontend
     Lunjia:
-    Viana: Backend
+    Viana:
     Smile:
 
 March 14
