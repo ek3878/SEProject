@@ -10,6 +10,7 @@
 		<version>3.2.3</version>
 	</parent>
 	
+ 	<groupId>com.youtubeproject</groupId>
 	<artifactId>Youtube-Clone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Youtube-Clone</name>
