@@ -40,6 +40,7 @@ Leftover from Last Iteration:
   Upload Videos to Database
 
 Prioritized List of Features to be implemented:
+  Midterm Presentation Slides and Script
   Create the base architecture for Youtube 
   Upload Videos to Database
   Save Video Details
@@ -48,7 +49,7 @@ Prioritized List of Features to be implemented:
 
 March 7
   Discussed and Split Responsibilities:
-    Elizabeth: Create base architecture and Frontend
+    Elizabeth: Create base architecture and Frontend, 
     Lunjia: Save Video Details
     Viana:
     Smile:
