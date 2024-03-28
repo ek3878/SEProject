@@ -40,7 +40,7 @@ Leftover from Last Iteration:
   Upload Videos to Database
 
 Prioritized List of Features to be implemented:
-  Midterm Presentation Slides and Script
+  Interim Presentation Slides and Script
   Create the base architecture for Youtube 
   Upload Videos to Database
   Save Video Details
@@ -49,13 +49,15 @@ Prioritized List of Features to be implemented:
 
 March 7
   Discussed and Split Responsibilities:
-    Elizabeth: Create base architecture and Frontend, 
-    Lunjia: Save Video Details
-    Viana:
-    Smile:
+    Elizabeth: Create base architecture and Frontend and worked on interim presentation: Design Architecture (General, Frontend, Backend, Database, Server, Authenticator) slides 19-34
+    Lunjia: Worked on interim presentation: Sequence Diagrams slides 11-16, Design Pattern slides 35-39, and Microservices slide 40
+    Viana: Worked on interim presentation: Class Diagram slides 5-10, Test slide 41
+    Smile: Worked on interim presentation: Use Case Diagram slides 2-4, Process(workflows) slide 18, Frontend slide 24
 
 March 14
-  Elizabeth: Created the base architecture for the Youtube clone application (generated the springboot project, created Maven multi module project for frontend and backend, installed AngularJS and created project, added and debugged maven frontend plugin, configured mongoDB in the springboot project), created an Startub Instructions FAQ guide (including instructions on how to use eclipse, download and install all needed technologies, how to use terminal to debug and run builds, and how to startup the Angular frontend UI)
-  Lunjia: Finish the midterm presentation materials and slides.
-  Viana:
-  Smile:
+  Elizabeth: Created the base architecture for the Youtube clone application (generated the springboot project, created Maven multi module project for frontend and backend, installed AngularJS and created project, added and debugged maven frontend plugin, configured mongoDB in the springboot project), created an Startup Instructions FAQ guide (including instructions on how to use eclipse, download and install all needed technologies, how to use terminal to debug and run builds, and how to startup the Angular frontend UI), and finalized the midterm presentation materials and slides.
+  Lunjia: Finalized the midterm presentation materials and slides
+  Viana: Finalized the midterm presentation materials and slides
+  Smile: Finalized the midterm presentation materials and slides
+
+Iteration 3:
